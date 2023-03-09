@@ -1,0 +1,39 @@
+.Formulario{
+width: 300px;
+padding: 20px;
+border-radius: 20px;
+margin: auto;
+
+background: rgb(189,9,183);
+background: linear-gradient(180deg, rgba(189,9,183,1) 0%, rgba(107,76,245,1) 100%);
+
+}
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+
+label{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+input{
+
+    margin-top: 5px;
+    margin-bottom: 7px;
+}
+
+
+.EspacioEntradas{
+    height: 25px;
+    width: 100% ;
+}
+
+.boton{
+    float: right;
+    margin-bottom: 30px;
+}
